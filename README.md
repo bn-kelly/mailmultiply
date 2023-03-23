@@ -1,4 +1,4 @@
-# Mail Multiply ![License](https://img.shields.io/badge/License-MIT-red.svg)
+# Mail Multiply
 
 ### MAKE UNLIMITED GMAILS
 
@@ -10,7 +10,6 @@
 
 You can generate mails and use it to mass signin a website, it saves output in ".lst" file. Can be used in pentesting of web app or applications. Works well with mostly all the websites while some websites blocks such emails.
 
-[Watch tutorial on youtube](https://www.youtube.com/channel/UCAdDJn4yWzQMJyKyRWne3qg)
 
 # Screenshot
 
@@ -46,19 +45,3 @@ $ chmod +x mailmultiply.sh
 
 $ ./mailmultiply.sh
 ```
-
-## Contact
-
-[Gmail](mailto:sandeshyadavm46@gmail.com) </br>
-[Instagram](https://instagram.com/1n_only_sandy) </br>
-[Blog](https://virtualprivacy.blogspot.com) </br>
-[Website](https://sandeshyadav.000webhostapp.com) </br>
-[YouTube](https://www.youtube.com/channel/UCAdDJn4yWzQMJyKyRWne3qg)
-
-## Disclaimer
-
-Mail Multiply is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.
-
-## License
-
-This work by [3xplotGuy](https://github.com/3xploitGuy) is licensed under the terms of the [MIT License](https://www.tldrlegal.com/l/mit).
